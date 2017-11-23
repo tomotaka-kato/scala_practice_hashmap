@@ -1,0 +1,4 @@
+Nov 23, 2017 2:56:38 PM com.orientechnologies.common.log.OLogManager log
+INFO: OrientDB auto-config DISKCACHE=683MB (heap=683MB direct=683MB os=16,384MB), assuming maximum direct memory size equals to maximum JVM heap size
+Nov 23, 2017 2:56:38 PM com.orientechnologies.common.log.OLogManager log
+WARNING: MaxDirectMemorySize JVM option is not set or has invalid value, that may cause out of memory errors. Please set the -XX:MaxDirectMemorySize=16384m option when you start the JVM.
